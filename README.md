@@ -105,26 +105,26 @@ Optimistic Update를 적용하여 우선 내부에서 관리하고 있는 북마
 
 ### 서비스 아키텍쳐
 
-![Mutual_Risk](https://github.com/user-attachments/assets/3325c59c-0762-4264-9d33-35a27d23c627)
+![Mutual_Risk](/img/Mutual_Risk.png)
 
 ## 4. 사용 화면
 
 1. **랜딩페이지** : 최초 페이지입니다. 로그인 버튼을 눌러서 카카오 로그인을 진행할 수 있습니다
     
-![image__5_](https://github.com/user-attachments/assets/32623cf4-50e2-4b40-a9b0-6e1c8657d3ad)
+![image__5_](/img/image__5_.png)
 
     
 - 신규 유저 : 신규 유저는 로그인 직후 초기 포트폴리오를 생성할 수 있도록 포트폴리오 제작 페이지로 리다이렉트
 - 기존 유저 : 기존 유저는 로그인 직후 보유하고 있는 포트폴리오의 성과를 분석한 포트폴리오 대시보드로 이동
 2. **포트폴리오의 효율적 포트폴리오 곡선, 섹터정보, 백테스팅 도구, Monthly Return**
 
-![image__6_](https://github.com/user-attachments/assets/0afc5a6a-6196-4d17-99f2-d85e3bf2fc05)
+![image__6_](/img/image__6_.png)
 
-![image__7_](https://github.com/user-attachments/assets/3c80feba-35c9-4136-b9f8-1062c6cc7362)
+![image__7_](/img/image__7_.png)
 
-![image__8_](https://github.com/user-attachments/assets/e9979c23-163c-4749-90a2-1aefc8d298c0)
+![image__8_](/img/image__8_.png)
 
-![image__9_](https://github.com/user-attachments/assets/25f8050b-6ace-4cd9-aca7-1290baed2234)
+![image__9_](/img/image__9_.png)
 
 
 ## 5. 결론
@@ -143,7 +143,7 @@ https://embed.figma.com/design/KhElPS7BdGJQeZ7T6PgWYu/%ED%8F%AC%ED%8A%B8%ED%8F%B
 
 https://www.erdcloud.com/d/7KE5MkJjDW3cQuJ6P
 
-![Copy_of_뮤탈리스크__1_](https://github.com/user-attachments/assets/80e960f3-e42a-4fc8-9f3f-04a59e632f09)
+![Copy_of_뮤탈리스크__1_](img/Copy_of_뮤탈리스크__1_.png)
 
 ## MongoDB Collection
 
